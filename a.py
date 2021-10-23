@@ -1,5 +1,5 @@
 a=input()
 print(a)
-a=a+"abc"
+a=a+"abcdd"
 print(a)
 print(hello)
