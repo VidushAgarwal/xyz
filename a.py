@@ -1,4 +1,4 @@
 a=input()
 print(a)
-a=a+"abc"
+a=a+"zishan"
 print(a)
