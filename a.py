@@ -1,7 +1,4 @@
 a=input()
 print(a)
 a=a+"abc"
-print(a)
-
-print("hello sir")
-
+print(
